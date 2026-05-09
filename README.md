@@ -1,17 +1,44 @@
-# React + Vite
+# Personal Portfolio - Goga Bhavyasree
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive personal portfolio website built to showcase my skills, education, and projects. 
 
-Currently, two official plugins are available:
+## 🛠️ Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **JavaScript** - Core logic
+- **Tailwind CSS** - Utility-first CSS framework for styling
+- **Framer Motion** - For smooth animations and page transitions
+- **Vite** - Fast frontend tooling
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Modern UI/UX**: Clean, professional design with glassmorphism effects.
+- **Responsive Design**: Looks great on desktops, tablets, and mobile devices.
+- **Animations**: Beautiful scroll animations and floating effects.
+- **Sections**: Hero, About Me, Skills, Education, Projects, Resume & Contact Details.
 
-## Expanding the ESLint configuration
+## 💻 Getting Started Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# FUTURE_FS_01
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/gogabhavyasree/FUTURE_FS_01.git
+   ```
+2. **Navigate into the directory**
+   ```sh
+   cd FUTURE_FS_01
+   ```
+3. **Install NPM packages**
+   ```sh
+   npm install
+   ```
+4. **Run the development server**
+   ```sh
+   npm run dev
+   ```
+
+## 📬 Contact
+
+**Goga Bhavyasree**
+- GitHub: [@gogabhavyasree](https://github.com/gogabhavyasree)
+- Email: gogabhavyasree@gmail.com
